@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
