@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
+| [0209-minimum-size-subarray-sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0238-product-of-array-except-self) |
 ## Heap (Priority Queue)
 |  |
@@ -67,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
