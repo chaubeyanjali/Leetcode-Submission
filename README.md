@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0238-product-of-array-except-self) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
@@ -94,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
