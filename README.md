@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0567-permutation-in-string) |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
