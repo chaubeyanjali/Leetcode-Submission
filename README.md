@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
+| [0904-fruit-into-baskets](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
