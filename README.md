@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
