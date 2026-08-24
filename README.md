@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0217-contains-duplicate) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0739-daily-temperatures) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/chaubeyanjali/Leetcode-Submission/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
